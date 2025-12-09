@@ -1,0 +1,2 @@
+# Customized-Recommendation-System-The-Intelligent-customer-segmentation-Approach-
+This project introduces a structured methodology that unites  customer segmentation with a tailored recommendation engine. At its foundation is the RFM (Recency,  Frequency, Monetary) framework, which, when coupled with K-Means clustering, categorizes consumers into  strategic segments—ranging from high to moderate and low-value groups
