@@ -15,7 +15,7 @@ The dataset represents transactions occurring between 01/12/2010 and 09/12/2011 
 * **Source:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/352/online+retail)
 * **Size:** 541,909 entries
 
-| Variable | Description |
+| Variables | Description |
 | :--- | :--- |
 | **InvoiceNo** | Unique transaction code (starts with 'c' if cancelled). |
 | **StockCode** | Unique product code. |
@@ -26,7 +26,7 @@ The dataset represents transactions occurring between 01/12/2010 and 09/12/2011 
 | **CustomerID** | Unique customer identifier. |
 | **Country** | Customer's country of residence. |
 
-## 🛠️ Project Workflows
+## 🛠️ Project Workflow
 
 ### 1. Data Cleaning & Transformation
 * **Missing Values:** Removed rows with missing `CustomerID` (essential for segmentation) and `Description`.
