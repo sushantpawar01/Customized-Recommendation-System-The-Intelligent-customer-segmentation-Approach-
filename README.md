@@ -1,5 +1,5 @@
 
-# Retail Customer Segmentation & Recommendation System
+# Retail Customers Segmentation & Recommendation System
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
 ![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-orange.svg)
@@ -55,7 +55,7 @@ We transformed the transactional data into a customer-centric dataset with the f
 * **Optimal K:** Determined using the **Elbow Method** and **Silhouette Analysis**.
 * **Result:** The optimal number of clusters was determined to be **3**.
 
-## 📊 Customer Segments (Results)
+## 📊 Customers Segments (Results)
 Using Radar Charts and Histograms, we profiled the 3 distinct clusters:
 
 | Cluster | Profile Name | Characteristics |
